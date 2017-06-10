@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Personal Geography 2016
-date: 2017-06-10 23:0:00
+date: 2017-06-10 23:0:00 -0600
 category: mapping
 tags: mapping qgis
 ---
