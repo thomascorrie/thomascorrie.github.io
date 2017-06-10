@@ -1,5 +1,6 @@
 ﻿---
 title: index
+layout: home
 ---
 
 ## Thomas Corrie
