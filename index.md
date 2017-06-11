@@ -3,6 +3,6 @@
 <li>
       <a href="{{ site.url }}{{ post.url }}">{{ post.title }}</a>
       {{ post.excerpt }}
-<li>
+</li>
   {% endfor %}
-<ul>
+</ul>
